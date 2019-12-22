@@ -15,3 +15,11 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+        
+        /**************************进入测试模式******************************/
+        int maim()
+        {
+          printf("Hello World!/n");
+        
+          return 0;
+        }
